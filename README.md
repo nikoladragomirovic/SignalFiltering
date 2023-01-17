@@ -8,6 +8,9 @@ Pronalaženje frekvencije željenog signala i neželjenih sinusa ostvareno je po
 Implementirani su circular FIR filtri 35og, 77og i 129og reda, kao i IIR filtri drugog, četvrtog i šestog reda na ulazni signal.
 
 Nakon filtriranja, output signal sadrži samo željene frekvencije.
+
+Fakultet Tehničkih Nauka u Novom Sadu </br>
+Računarstvo i Automatika (Računarske Tehnike i Računarska Komunikacija)
 # English
 The project consisted of two parts:</br>
 - Finding the frequency of the desired signal.
@@ -17,3 +20,7 @@ Finding the frequency of the desired signal and unwanted sine waves was achieved
 Circular FIR filters of 35th, 77th and 129th order, as well as IIR filters of second, fourth and sixth order were implemented on the input signal.
 
 After filtering, the output signal only contains the desired frequencies.
+
+
+Faculty of Technical Sciences in Novi Sad </br>
+Computing and Automatics (Computer Technique and Computer Communication)
