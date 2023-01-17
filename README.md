@@ -16,7 +16,7 @@ The project consisted of two parts:</br>
 - Finding the frequency of the desired signal.
 - Removing unwanted frequencies and interference within the desired signal in the form of high amplitude sine waves by implementing FIR and IIR filters in C language.
 
-Finding the frequency of the desired signal and unwanted sine waves was achieved using the "Plot Spectrum" tool of the "Audacity" program.
+Finding the frequency of the desired signal and unwanted sine waves was achieved using the "Plot Spectrum" tool of the "Audacity" program. </br>
 Circular FIR filters of 35th, 77th and 129th order, as well as IIR filters of second, fourth and sixth order were implemented on the input signal.
 
 After filtering, the output signal only contains the desired frequencies.
